@@ -1,4 +1,6 @@
-# Finally done on June 9, 2018    
+# Face recognition application on Hololens  
+
+## Finally done on June 9, 2018    
 
 This is a face recognition application based on augmented reality technology. The operating platform is Microsoft HoloLens.  
 
@@ -7,6 +9,9 @@ This is a face recognition application based on augmented reality technology. Th
 Windows 10  
 
 Unity 2017.3.1f1  
+
+Visual Studio 2017  
+
 
 
 ## function  
@@ -84,9 +89,10 @@ Since the trial version of the Microsoft Cognitive Services API is used in this 
 
 Please note the WWW method on Unity 2017.3.1f1, which may not be available on this version due to design flaws. There are related posts in this Unity forum.  
 
+# 基于HoloLens的人脸识别应用  
 
 
-# 最终完成于2018年6月9日  
+## 最终完成于2018年6月9日  
 
 
 这是一款基于增强现实技术的人脸识别应用，运行平台为微软HoloLens。  
@@ -97,6 +103,9 @@ Please note the WWW method on Unity 2017.3.1f1, which may not be available on th
 Windows 10  
 
 Unity 2017.3.1f1  
+
+Visual Studio 2017  
+
 
 
 ## 实现功能：  
