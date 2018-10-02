@@ -1,8 +1,10 @@
 # Face recognition application on Hololens  
 
-## Finally done on June 9, 2018    
+## Introduce  
 
 This is a face recognition application based on augmented reality technology. The operating platform is Microsoft HoloLens.  
+
+Finally done on June 9, 2018    
 
 ## Development environment  
 
@@ -91,12 +93,11 @@ Please note the WWW method on Unity 2017.3.1f1, which may not be available on th
 
 # 基于HoloLens的人脸识别应用  
 
-
-## 最终完成于2018年6月9日  
-
+## 简介  
 
 这是一款基于增强现实技术的人脸识别应用，运行平台为微软HoloLens。  
 
+最终完成于2018年6月9日  
 
 ## 开发环境：  
 
