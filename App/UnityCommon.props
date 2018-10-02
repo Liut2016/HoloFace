@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HoloFace2</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\unity projects\HoloFace\HoloFace2\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\unity projects\HoloFace\HoloFace2\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Software\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
